@@ -1,4 +1,7 @@
-###  ⚔🍿🍂 Hey I'm Yesi 🌠❄⛄
+<img src="./img/yesi.png" width="100%" height="15%">
+
+<h2 style="text-align:center"> Fullstack Web Developer </h3>
+
 
 <!--
 **yesi-aracawa/yesi-aracawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +15,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Fun fact: ...
+  -->
