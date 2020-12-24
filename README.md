@@ -2,7 +2,19 @@
 
 <h2 style="text-align:center"> Fullstack Web Developer </h3>
 
+<div style="display:flex; justify-content:center">
 
+<p style="display:inline-block">
+
+|      Interested on |   Languages   |                Geek hobbies |
+| -----------------: | :-----------: | --------------------------: |
+| ⚡ Web development |    🔴 Ruby    |   ⭐ Try code challenges 👩‍💻 |
+|           🕵️‍♀️ Agile | 🟡 JavaScript |              💬 IT Talks 💌 |
+|          🤘 Design | 🔵 TypeScript | 👀 Courses & Certifications |
+
+</p>
+
+</div>
 <!--
 **yesi-aracawa/yesi-aracawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
