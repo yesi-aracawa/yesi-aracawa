@@ -20,8 +20,6 @@
 <ul>
 <li>🏴‍☠️ punk and alternative rock 🎶</li>
 
-<li>🍒 pin up and rockabilly style</li>
-
 <li>🎃 Halloween & Xmas 🎄</li>
 
 <li>🌮 mexican food</li>
