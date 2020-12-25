@@ -14,6 +14,21 @@
 
 </p>
 
+<p style="display:inline-block; margin-left:3%">
+<div>
+<h4> What I like most (Man does not live on IT alone) ...</h4>
+<ul>
+<li>🏴‍☠️ punk and alternative rock 🎶</li>
+
+<li>🍒 pin up and rockabilly style</li>
+
+<li>🎃 Halloween & Xmas 🎄</li>
+
+<li>🌮 mexican food</li>
+</ul>
+</div>
+</p>
+
 </div>
 <!--
 **yesi-aracawa/yesi-aracawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
