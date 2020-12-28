@@ -1,4 +1,4 @@
-<img src="./img/yesi.png" width="100%" height="15%">
+<img src="img/yesi.png" width="100%" height="15%">
 
 <h2 style="text-align:center"> Fullstack Web Developer </h3>
 
